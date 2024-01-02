@@ -3,17 +3,47 @@ import React, { useState } from 'react'
 import { useSprings, animated, interpolate } from 'react-spring'
 import { useGesture } from 'react-use-gesture'
 import './style.css'
-import BG1 from './Image/1-2.jpg'
-import BG2 from './Image/1-3.jpg'
-import BG3 from './Image/2.png'
-import BG4 from './Image/3-1.png'
-import BG5 from './Image/3-3.jpg'
-import BG6 from './Image/3-4.jpg'
+import BG1 from './Image/1.jpg'
+import BG2 from './Image/2.JPG'
+import BG3 from './Image/3.PNG'
+import BG4 from './Image/5.JPG'
+import BG5 from './Image/6.jpg'
+import BG6 from './Image/7.jpg'
+import BG7 from './Image/8.JPG'
+import BG8 from './Image/9.JPG'
+import BG9 from './Image/10.JPG'
+import BG10 from './Image/11.jpg'
+import BG11 from './Image/12.jpg'
+import BG14 from './Image/13.jpg'
+import BG15 from './Image/14.jpg'
+import BG16 from './Image/15.jpg'
+import BG17 from './Image/16.jpg'
+import BG18 from './Image/17.jpg'
+import BG19 from './Image/18.jpg'
+import BG20 from './Image/19.jpg'
+import BG21 from './Image/20.jpg'
 
 
 const unsortedCards = [
   BG1,
-  BG2, BG3, BG4, BG5, BG6
+  // BG2, 
+  BG3, 
+  BG4, 
+  // BG5, 
+  BG6,
+  BG7,
+// BG8,
+BG9,
+BG10,
+BG11,
+// BG14,
+// BG15,
+BG16,
+BG17,
+BG18,
+BG19,
+// BG20,
+// BG21,
 ];
 
 const cards = unsortedCards
