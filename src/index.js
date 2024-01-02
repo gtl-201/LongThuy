@@ -49,7 +49,7 @@ function Deck() {
   return (
     <>
     <div class='container' style={{height: '20vh', fontSize: '20px'}}>
-      <div class="Title">CHÚNG MÌNH BÊN NHAU HƠN 1 NĂM RỒI ĐÓ</div>
+      <div class="Title">CHÚNG MÌNH BÊN NHAU HƠN I NĂM RỒI ĐÓ</div>
       <div class="loveThuy">ᰔᩚ 🐉 LONG 💖 THỦY 🌊 ᰔᩚ</div>
     </div>
     <div>

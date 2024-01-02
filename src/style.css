@@ -40,9 +40,9 @@ body {
   background-size: auto 85%;
   background-repeat: no-repeat;
   background-position: center;
-  width: 50vh;
+  width: 35vh;
   max-width: 550px;
-  height: 75vh;
+  height: 60vh;
   max-height: 900px;
   will-change: transform;
   border-radius: 10px;
@@ -67,6 +67,7 @@ body {
   font-family: 'Pacifico';
   letter-spacing: 4;
   color: white;
+  text-align: center;
 }
 .loveThuy {
   font-size: 30px;
@@ -79,7 +80,7 @@ body {
 .Subtitle {
   font-size: 30px;
   font-weight: 800;
-  width: 50vh;
+  width: 35vh;
   max-width: 550px;
   font-family: 'Rubik Doodle Shadow';
   letter-spacing: 3;
